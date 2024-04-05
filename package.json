@@ -1,0 +1,16 @@
+{
+  "name": "insertion_sort",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Insertion Sort Implementation with property based testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrii Prystupa",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^3.17.1",
+    "jest": "^29.7.0"
+  }
+}
